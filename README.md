@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hello there 👋
+
+I am a final year CSE undergraduate student at [IIIT, Gwalior](https://www.iiitm.ac.in/index.php/en/)
+- 📱️ I am interested in the field of Mobile App Development
+- 🤹🏽 I have experience in developing cross-platform and Android native apps
+- 🕥 I have worked on a few web and desktop development projects too
+- 💡 To know more about me and what I do, check out my <a href="https://drive.google.com/file/d/1DxG0S1HLRTnfMz-9ul_BrGjDvtnV0Kng/view?usp=share_link">Resume</a></h4><br /><br />
+
+### Technologies I work with...
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+
+### Social Links
+<a href="mailto:pranshutejas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://linkedin.com/in/pranshusaxena18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **pranshu-s18/pranshu-s18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
