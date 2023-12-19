@@ -1,8 +1,7 @@
-# Hello there! 👋
+# Hello there 👋
 
 Recent graduate from [IIIT, Gwalior](https://www.iiitm.ac.in/index.php/en/)
-
-- 📱️ I am passionate about Mobile App Development
+- 📱️ Passionate about Mobile App Development
 - 🤹🏽 Experienced in developing cross-platform and Android native apps
 - 🕥 Worked on web and desktop development projects
 - 💡 Check out my [Resume](https://drive.google.com/file/d/1DxG0S1HLRTnfMz-9ul_BrGjDvtnV0Kng/view?usp=share_link)
@@ -14,7 +13,3 @@ Recent graduate from [IIIT, Gwalior](https://www.iiitm.ac.in/index.php/en/)
 ## Social Links
 
 <a href="mailto:pranshutejas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://linkedin.com/in/pranshu-s18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-## May the Force be with you! 
-
-![Obi-Wan Kenobi](https://static.wikia.nocookie.net/starwars/images/2/2a/He-says-the-thing.png/revision/latest/scale-to-width-down/1200?cb=20230113022153)
